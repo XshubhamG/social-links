@@ -39,7 +39,7 @@ function App() {
           Shubham Giri
         </h1>
         <p className="text-md dark:text-subtext-0 mb-8 text-gray-600">
-          Connecting across the web!
+          Full Stack Developer | Data Science | Linux Enthusiast
         </p>
 
         <SocialLinksContainer
